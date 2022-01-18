@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTralisIntegration", "XTralisIntegration\XTralisIntegration.csproj", "{770DC423-C6D6-4451-8DB3-227E85AE5549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTralisCommunication", "XTralisCommunication\XTralisCommunication.csproj", "{BB7E8267-9EB5-4D6C-ADE5-4DA70EB23D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770DC423-C6D6-4451-8DB3-227E85AE5549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770DC423-C6D6-4451-8DB3-227E85AE5549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770DC423-C6D6-4451-8DB3-227E85AE5549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770DC423-C6D6-4451-8DB3-227E85AE5549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7E8267-9EB5-4D6C-ADE5-4DA70EB23D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E8267-9EB5-4D6C-ADE5-4DA70EB23D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E8267-9EB5-4D6C-ADE5-4DA70EB23D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E8267-9EB5-4D6C-ADE5-4DA70EB23D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F32757B-8307-4452-A0A6-14961909CC92}
+	EndGlobalSection
+EndGlobal
